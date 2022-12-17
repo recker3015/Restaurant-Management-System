@@ -20,7 +20,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//hey git
+//hey git changes
 
 Route::get('/dashboard', function () {
     return view('dash');
